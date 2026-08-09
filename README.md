@@ -1,34 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Anika%20Ristevska&fontAlign=50&fontAlignY=38&color=0:4F46E5,100:A855F7&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Anika%20Ristevska&fontAlign=50&fontAlignY=38&fontSize=42&color=0:4338CA,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn" />
 
-### Computer Science Student @ FINKI
-
-**Web Development · Machine Learning · DevOps**
+<h3>Computer Science Student @ FINKI</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/anika-ristevska-496b84394/">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://anikaristevska1.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:anikaristevska11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  Web Development&nbsp;&nbsp;·&nbsp;&nbsp;Machine Learning&nbsp;&nbsp;·&nbsp;&nbsp;DevOps
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1100&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications;Exploring+Machine+Learning+through+projects;Learning+DevOps+and+deployment+workflows" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/anika-ristevska-496b84394/">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://anikaristevska1.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:anikaristevska11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a Computer Science student at **FINKI** with an interest in building practical software and exploring how modern applications move from development to deployment.
+I'm a **Computer Science student at FINKI** interested in building practical software and exploring different areas of modern software development.
 
-My work currently focuses on **web development**, **machine learning**, and **DevOps**, with experience using Python, Django, JavaScript, React, Docker, and PostgreSQL.
+My current interests include **web development, machine learning, data science, and DevOps**. I enjoy working on projects that involve both problem solving and implementation — from analysing data and experimenting with models to building applications and exploring deployment workflows.
 
-I particularly enjoy projects that combine clean implementation, data-driven solutions, and thoughtful user experience.
+<div align="center">
+
+<table>
+<tr>
+<td><strong>Based in</strong></td>
+<td>Skopje, North Macedonia</td>
+</tr>
+
+<tr>
+<td><strong>Studying</strong></td>
+<td>Computer Science @ FINKI</td>
+</tr>
+
+<tr>
+<td><strong>Interests</strong></td>
+<td>Web Development · Machine Learning · Data Science · DevOps</td>
+</tr>
+
+<tr>
+<td><strong>Currently exploring</strong></td>
+<td>Full-Stack Development · Machine Learning · Docker · Deployment</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -36,56 +66,131 @@ I particularly enjoy projects that combine clean implementation, data-driven sol
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,html,css,bootstrap,postgres,git,github,docker,figma,vscode&theme=dark" alt="Technology stack" />
+<h4>Languages</h4>
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages" />
 
 <br>
 
-| Area                 | Technologies & Topics                                               |
-| -------------------- | ------------------------------------------------------------------- |
-| **Web Development**  | Django, React, JavaScript, REST APIs, responsive interfaces         |
-| **Machine Learning** | Data preprocessing, classification, model evaluation, data analysis |
-| **DevOps**           | Git, GitHub, Docker, deployment workflows                           |
-| **Databases**        | PostgreSQL, relational data modelling                               |
-| **Tools**            | VS Code, Figma, GitHub                                              |
+<h4>Frameworks & Libraries</h4>
+
+<img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap&theme=dark" alt="Frameworks and Libraries" />
+
+<br>
+
+<h4>Databases & DevOps</h4>
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&theme=dark" alt="Databases and DevOps" />
+
+<br>
+
+<h4>Tools</h4>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" alt="Tools" />
+
+</div>
 
 ---
 
-## Current Focus
+## Focus Areas
 
-* Building full-stack applications with **Django and React**
-* Developing practical **machine learning projects**
-* Improving my understanding of **Docker and deployment**
-* Writing cleaner, maintainable, and well-structured software
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Web Development
+
+Building responsive web applications and strengthening my understanding of both frontend and backend development.
+
+`Django` · `React` · `JavaScript` · `REST APIs`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Machine Learning
+
+Working through the machine learning pipeline, from preparing data to training and evaluating models.
+
+`Data Preprocessing` · `Classification` · `Model Evaluation`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Data Science
+
+Using data analysis and visualisation to explore patterns and build data-driven solutions.
+
+`Python` · `Data Analysis` · `Visualisation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### DevOps
+
+Learning how applications move from local development to reproducible deployment environments.
+
+`Git` · `GitHub` · `Docker` · `Deployment`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Areas I'm Exploring
+## Currently
 
-```text
-Web Development      ███████████████████░
-Machine Learning     █████████████████░░░
-DevOps               ██████████████░░░░░░
-Data Science         ████████████████░░░░
-```
+- Building stronger **full-stack development** skills
+- Developing practical **machine learning and data science projects**
+- Exploring **Docker and deployment workflows**
+- Improving code structure, readability, and maintainability
 
-I enjoy working across different parts of the development process — from designing an application and working with data to preparing projects for deployment.
+---
+
+## What I Value in a Project
+
+I like projects that go beyond simply producing a final result. I aim to understand the decisions behind the implementation, keep the code organised, document the important parts, and build something that can be clearly explained and improved over time.
 
 ---
 
 <div align="center">
 
-### Let's Connect
-
-I'm always interested in learning from other developers, discovering new technologies, and working on meaningful projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3500&pause=1300&color=A78BFA&center=true&vCenter=true&width=500&lines=learn();+build();+improve();+repeat();" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anikaristevska1&style=flat-square&color=7C3AED" alt="Profile views"/>
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/anika-ristevska-496b84394/">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://anikaristevska1.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:anikaristevska11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br><br>
 
-<sub>Building, learning, and improving through every project.</sub>
+<img src="https://komarev.com/ghpvc/?username=anikaristevska1&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br><br>
+
+<sub>Building one project at a time.</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:A855F7,50:7C3AED,100:4338CA" />
 
 </div>
